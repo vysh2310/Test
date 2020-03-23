@@ -9,3 +9,4 @@ TetmlspAMP
 templerun
 Hydel 
 powerplant
+solar power plant
