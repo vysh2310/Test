@@ -1,6 +1,6 @@
 
 
-SOURCES = sources/first_analysis.c
+SOURCES = first_analysis.c
 
 INC =-Iincludes
 
