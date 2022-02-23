@@ -5,7 +5,7 @@ signed char b[4] = {1,};
 
 signed char firstAnalysis(void)
 {
-	signed char x = 1;
+	signed char x = 2;
 	signed char y;
 	signed char res;
 	signed char z;
