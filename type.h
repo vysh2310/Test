@@ -6,3 +6,4 @@
 #endif
 
 EXTERN int global;
+EXTERN int global1;
