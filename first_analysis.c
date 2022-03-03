@@ -1,4 +1,4 @@
-#include "extFunc.h"	
+#include "extFunc.h"	//code check for first_analysis
 
 signed char a[3] = {1,};
 signed char b[4] = {1,};
